@@ -18,6 +18,12 @@
         	"marca": "Audi",
         	"modelo": "A3",
         	"color": "negro"
-    	}
+    	},
+	{
+		"cocheID": 4,
+        	"marca": "Toyota",
+        	"modelo": "Celica",
+        	"color": "Vinilo Castro Rally"
+	}
 	]
 }
