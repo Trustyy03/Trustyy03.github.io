@@ -1,29 +1,55 @@
 {
-	"name": "Colección de coches",
-	"coches": [
+	"name": "Artículos Barbería",
+	"tijeras": [
     	{
-        	"cocheID": 1,
-        	"marca": "Seat",
-        	"modelo": "Ibiza",
-        	"color": "blanco"
+        	"articuloID": 1,
+        	"elemento": "Tijera",
+        	"tipo": "Corte",
+        	"color": "plata",
+		"marca": "Artero",
+		"precio": 25.99
     	},
     	{
-        	"cocheID": 2,
-        	"marca": "Ford",
-        	"modelo": "Fiesta",
-        	"color": "rojo"
+        	"articuloID": 2,
+        	"elemento": "Tijera",
+        	"tipo": "Zurda",
+        	"color": "plata",
+		"marca": "Wahl",
+		"precio": 25.99
     	},
     	{
-        	"cocheID": 3,
-        	"marca": "Audi",
-        	"modelo": "A3",
-        	"color": "negro"
+        	"articuloID": 3,
+        	"elemento": "Tijera",
+        	"tipo": "Micro-Dentada",
+        	"color": "plata",
+		"marca": "Eurostil",
+		"precio": 34.59
     	},
 	{
-		"cocheID": 4,
-        	"marca": "Toyota",
-        	"modelo": "Celica",
-        	"color": "azul"
+		"articuloID": 4,
+        	"elemento": "Tijera",
+        	"tipo": "Texturizar",
+        	"color": "plata",
+		"marca": "3 claveles",
+		"precio": 19.79
 	}
+	],
+	"peines": [
+		{
+		"articuloID": 1,
+        	"elemento": "Peine",
+        	"tipo": "cola de ratón",
+        	"color": "negro",
+		"marca": "Ciceri Clippers",
+		"precio": 3.00
+		},
+		{
+		"articuloID": 2,
+        	"elemento": "Peine",
+        	"tipo": "púas anchas",
+        	"color": "negro",
+		"marca": "Ciceri Clippers",
+		"precio": 2.45
+		}
 	]
 }
