@@ -120,6 +120,22 @@
 		"color": "rojo",
 		"marca": "Kenchii",
 		"precio": 99.99
+	},
+	{
+		"articuloID": 16,
+		"elemento": "Tijera",
+		"tipo": "Corte y Entresacar",
+		"color": "azul",
+		"marca": "Kenchii",
+		"precio": 99.99
+	},
+	{
+		"articuloID": 17,
+		"elemento": "Tijera",
+		"tipo": "Corte y Entresacar",
+		"color": "negro",
+		"marca": "Kenchii",
+		"precio": 99.99
 	}
 	],
 	"peines": [
