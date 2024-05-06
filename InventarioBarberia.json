@@ -65,6 +65,7 @@
 		"marca": "Kamisori",
 		"precio": 59.99
 	},
+	{
 		"articuloID": 9,
 		"elemento": "Tijera",
 		"tipo": "Titanio",
