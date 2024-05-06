@@ -32,24 +32,56 @@
         	"color": "plata",
 		"marca": "3 claveles",
 		"precio": 19.79
+	},
+	{
+		"articuloID": 5,
+		"elemento": "Tijera",
+		"tipo": "Desfilar",
+		"color": "negro",
+		"marca": "Matsui",
+		"precio": 45.99
+	},
+	{
+		"articuloID": 6,
+		"elemento": "Tijera",
+		"tipo": "Esculpir",
+		"color": "dorado",
+		"marca": "Jaguar",
+		"precio": 39.99
+	},
+	{
+		"articuloID": 7,
+		"elemento": "Tijera",
+		"tipo": "Barbería",
+		"color": "negro",
+		"marca": "Cricuban",
+		"precio": 29.99
+	},
+	{
+		"articuloID": 8,
+		"elemento": "Tijera",
+		"tipo": "Precision",
+		"color": "rojo",
+		"marca": "Kamisori",
+		"precio": 59.99
 	}
 	],
 	"peines": [
-		{
+	{
 		"articuloID": 1,
         	"elemento": "Peine",
         	"tipo": "cola de ratón",
         	"color": "negro",
 		"marca": "Ciceri Clippers",
 		"precio": 3.00
-		},
-		{
+	},
+	{
 		"articuloID": 2,
         	"elemento": "Peine",
         	"tipo": "púas anchas",
         	"color": "negro",
 		"marca": "Ciceri Clippers",
 		"precio": 2.45
-		}
+	}
 	]
 }
