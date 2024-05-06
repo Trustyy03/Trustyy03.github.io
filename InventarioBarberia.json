@@ -64,6 +64,61 @@
 		"color": "rojo",
 		"marca": "Kamisori",
 		"precio": 59.99
+	},
+		"articuloID": 9,
+		"elemento": "Tijera",
+		"tipo": "Titanio",
+		"color": "plata",
+		"marca": "Kasho",
+		"precio": 74.99
+	},
+	{
+		"articuloID": 10,
+		"elemento": "Tijera",
+		"tipo": "Entresacar",
+		"color": "negro",
+		"marca": "Sam Villa",
+		"precio": 49.99
+	},
+	{
+		"articuloID": 11,
+		"elemento": "Tijera",
+		"tipo": "Estilizar",
+		"color": "plata",
+		"marca": "Shibumi",
+		"precio": 64.99
+	},
+	{
+		"articuloID": 12,
+		"elemento": "Tijera",
+		"tipo": "Corte a Navaja",
+		"color": "negro",
+		"marca": "Mizutani",
+		"precio": 89.99
+	},
+	{
+		"articuloID": 13,
+		"elemento": "Tijera",
+		"tipo": "Curva",
+		"color": "plata",
+		"marca": "Akito",
+		"precio": 54.99
+	},
+	{
+		"articuloID": 14,
+		"elemento": "Tijera",
+		"tipo": "Multiusos",
+		"color": "negro",
+		"marca": "YS Park",
+		"precio": 79.99
+	},
+	{
+		"articuloID": 15,
+		"elemento": "Tijera",
+		"tipo": "Corte y Entresacar",
+		"color": "rojo",
+		"marca": "Kenchii",
+		"precio": 99.99
 	}
 	],
 	"peines": [
