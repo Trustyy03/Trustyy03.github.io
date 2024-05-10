@@ -7,7 +7,8 @@
         	"tipo": "Corte",
         	"color": "plata",
 		"marca": "Artero",
-		"precio": 25.99
+		"precio": 25.99,
+		"imagen": "products-img/tijera-corte.jpg";
     	},
     	{
         	"articuloID": 2,
