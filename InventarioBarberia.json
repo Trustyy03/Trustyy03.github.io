@@ -17,7 +17,7 @@
         	"color": "plata",
 		"marca": "Wahl",
 		"precio": 25.99,
-		"imagen": "products-img/microdentada eurostil.jpg"
+		"imagen": "products-img/tijera-zurda.jpg"
     	},
     	{
         	"articuloID": 3,
@@ -26,7 +26,7 @@
         	"color": "plata",
 		"marca": "Eurostil",
 		"precio": 34.59,
-		"imagen": "products-img/"
+		"imagen": "products-img/microdentada eurostil.jpg"
     	},
 	{
 		"articuloID": 4,
@@ -35,7 +35,7 @@
         	"color": "plata",
 		"marca": "3 claveles",
 		"precio": 19.79,
-		"imagen": "products-img/"
+		"imagen": "products-img/tijera-texturizar-3-claveles.jpg"
 	},
 	{
 		"articuloID": 5,
@@ -44,7 +44,7 @@
 		"color": "negro",
 		"marca": "Matsui",
 		"precio": 45.99,
-		"imagen": "products-img/"
+		"imagen": "products-img/tijera-desfilar-matsui.jpg"
 	},
 	{
 		"articuloID": 6,
