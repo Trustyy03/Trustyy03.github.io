@@ -94,15 +94,6 @@
 	{
 		"articuloID": 11,
 		"elemento": "Tijera",
-		"tipo": "Estilizar",
-		"color": "plata",
-		"marca": "Shibumi",
-		"precio": 64.99,
-		"imagen": "products-img/"
-	},
-	{
-		"articuloID": 12,
-		"elemento": "Tijera",
 		"tipo": "Corte a Navaja",
 		"color": "negro",
 		"marca": "Mizutani",
@@ -110,7 +101,7 @@
 		"imagen": "products-img/"
 	},
 	{
-		"articuloID": 13,
+		"articuloID": 12,
 		"elemento": "Tijera",
 		"tipo": "Curva",
 		"color": "plata",
@@ -119,42 +110,16 @@
 		"imagen": "products-img/"
 	},
 	{
-		"articuloID": 14,
+		"articuloID": 13,
 		"elemento": "Tijera",
 		"tipo": "Multiusos",
 		"color": "negro",
 		"marca": "YS Park",
 		"precio": 79.99,
 		"imagen": "products-img/"
-	},
-	{
-		"articuloID": 15,
-		"elemento": "Tijera",
-		"tipo": "Corte y Entresacar",
-		"color": "rojo",
-		"marca": "Kenchii",
-		"precio": 99.99,
-		"imagen": "products-img/"
-	},
-	{
-		"articuloID": 16,
-		"elemento": "Tijera",
-		"tipo": "Corte y Entresacar",
-		"color": "azul",
-		"marca": "Kenchii",
-		"precio": 99.99,
-		"imagen": "products-img/"
-	},
-	{
-		"articuloID": 17,
-		"elemento": "Tijera",
-		"tipo": "Corte y Entresacar",
-		"color": "negro",
-		"marca": "Kenchii",
-		"precio": 99.99,
-		"imagen": "products-img/"
+	
 	}
-	],
+	]
 	"peines": [
 	{
 		"articuloID": 1,
